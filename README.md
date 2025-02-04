@@ -1,2 +1,2 @@
 # geekfest2025
-github repo for open source demo
+github repo for geekfest demo
