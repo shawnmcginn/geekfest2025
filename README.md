@@ -1,6 +1,6 @@
 # geekfest2025
 
-GitHub repo for Geekfest demo - we want you to contribute!
+GitHub repo for Geekfest demo - we want your contribution!
 
 ## Word Guessing Game
 
