@@ -4,6 +4,6 @@
         "repository", "commitment", "branching", "merging", "debugging",
         "testing", "deployment", "feature", "release", "version",
         "forking", "cloning", "continuous", "integration",
-        "automation", "scalability", "performance", "geekfest"
+        "automation", "scalability", "performance", "geekfest", "hackathon", "meetup"
     ]
 }
